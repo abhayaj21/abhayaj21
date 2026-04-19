@@ -5,7 +5,7 @@
 <h3 align="center">🚀 A Passionate Java Full Stack Developer From India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="coding" width="330px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -78,15 +78,19 @@
 ### 🌿 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/3fb950/abhayaj21" alt="Abhay's Contribution Graph"/>
+  <img src="https://img.shields.io/badge/Contributions-2024-3fb950?style=for-the-badge&labelColor=0d1117&color=3fb950" alt="year"/>
 </p>
 
----
-
-### 🐍 Snake Animation
+<div align="center">
+  <img src="https://ghchart.rshah.org/3fb950/abhayaj21" alt="Abhay's GitHub Contribution Chart" style="border-radius:10px"/>
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhayaj21/abhayaj21/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://img.shields.io/badge/Less-%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1-0e4429?style=flat&labelColor=0d1117" alt="less"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/-%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0-3fb950?style=flat&labelColor=0d1117" alt="more"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/More-%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0-39d353?style=flat&labelColor=0d1117" alt="most"/>
 </p>
 
 ---
