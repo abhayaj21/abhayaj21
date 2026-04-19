@@ -5,13 +5,13 @@
 <h3 align="center">🚀 A Passionate Java Full Stack Developer From India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3FB950&center=true&vCenter=true&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="coding" width="330px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abhayaj21&label=Profile%20views&color=0e75b6&style=flat" alt="abhayaj21" />
+  <img src="https://komarev.com/ghpvc/?username=abhayaj21&label=Profile%20views&color=3fb950&style=flat" alt="abhayaj21" />
 </p>
 
 ---
@@ -60,9 +60,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayaj21&show_icons=true&locale=en&theme=tokyonight" alt="abhayaj21" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhayaj21&show_icons=true&theme=github_dark&hide_border=true&icon_color=3fb950&title_color=3fb950" width="48%" alt="stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayaj21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abhayaj21" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayaj21&layout=compact&theme=github_dark&hide_border=true&title_color=3fb950" width="40%" alt="langs"/>
 </p>
 
 ---
@@ -70,15 +70,15 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayaj21&background=0D1117&border=00C853&stroke=00C853&ring=00C853&fire=00FF6A&currStreakNum=00FF6A&sideNums=00C853&currStreakLabel=00C853&sideLabels=00C853&dates=AAAAAA" alt="abhayaj21"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayaj21&background=0D1117&border=3fb950&stroke=3fb950&ring=3fb950&fire=39d353&currStreakNum=39d353&sideNums=3fb950&currStreakLabel=3fb950&sideLabels=3fb950&dates=8b949e&hide_border=false" alt="streak"/>
 </p>
 
 ---
 
-### 🐍 My Contributions
+### 🌿 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhayaj21/abhayaj21/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhayaj21&bg_color=0D1117&color=3fb950&line=3fb950&point=39d353&area=true&area_color=0e4429&hide_border=true" alt="contribution graph"/>
 </p>
 
 ---
