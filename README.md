@@ -5,7 +5,7 @@
 <h3 align="center">🚀 A Passionate Java Full Stack Developer From India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3FB950&center=true&vCenter=true&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="coding" width="330px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -60,7 +60,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayaj21&show_icons=true&theme=github_dark&hide_border=true&icon_color=3fb950&title_color=3fb950" width="48%" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhayaj21&show_icons=true&theme=github_dark&hide_border=true&icon_color=3fb950&title_color=3fb950&ring_color=3fb950" width="48%" alt="stats"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayaj21&layout=compact&theme=github_dark&hide_border=true&title_color=3fb950" width="40%" alt="langs"/>
 </p>
@@ -70,7 +70,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayaj21&background=0D1117&border=3fb950&stroke=3fb950&ring=3fb950&fire=39d353&currStreakNum=39d353&sideNums=3fb950&currStreakLabel=3fb950&sideLabels=3fb950&dates=8b949e&hide_border=false" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayaj21&background=0D1117&border=3fb950&stroke=3fb950&ring=3fb950&fire=39d353&currStreakNum=39d353&sideNums=3fb950&currStreakLabel=3fb950&sideLabels=3fb950&dates=8b949e" alt="streak"/>
 </p>
 
 ---
@@ -78,9 +78,17 @@
 ### 🌿 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhayaj21&bg_color=0D1117&color=3fb950&line=3fb950&point=39d353&area=true&area_color=0e4429&hide_border=true" alt="contribution graph"/>
+  <img src="https://ghchart.rshah.org/3fb950/abhayaj21" alt="Abhay's Contribution Graph"/>
 </p>
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/abhayaj21">Abhay Jadhav</a></p>
+### 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhayaj21/abhayaj21/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+<p align="center">Made with ❤️ by <a href="https://github.com/abhayaj21">Abhay Jadhav</a> &nbsp;|&nbsp; ⭐ Star the repo if you like it!</p>
