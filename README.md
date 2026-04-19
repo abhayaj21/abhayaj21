@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhayajprotfolio.netlify.app/](https://abhayajprotfolio.netlify.app/)
 
-- 💬 Ask me about **Java,Lamp**
+- 💬 Ask me about **Java , Lamp**
 
 - 📫 How to reach me **abhayaj2121@gmail.com**
 
