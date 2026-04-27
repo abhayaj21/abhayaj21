@@ -78,19 +78,7 @@
 ### 🌿 Contribution Graph
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-2024-3fb950?style=for-the-badge&labelColor=0d1117&color=3fb950" alt="year"/>
-</p>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/3fb950/abhayaj21" alt="Abhay's GitHub Contribution Chart" style="border-radius:10px"/>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Less-%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1-0e4429?style=flat&labelColor=0d1117" alt="less"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/-%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0-3fb950?style=flat&labelColor=0d1117" alt="more"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/More-%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0-39d353?style=flat&labelColor=0d1117" alt="most"/>
+  <img src="https://ghchart.rshah.org/0e4429/abhayaj21" alt="Abhay's GitHub Contribution Graph" style="background:#0d1117;border-radius:6px;" width="100%"/>
 </p>
 
 ---
