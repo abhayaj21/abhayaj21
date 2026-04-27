@@ -1,4 +1,4 @@
-<!-- Header Wave Banner -->
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0e4429,70:006d32,100:39d353&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Abhay%20Jadhav&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=🚀%20A%20Passionate%20Java%20Full%20Stack%20Developer%20From%20India&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Angular+%7C+REST+APIs;Building+Scalable+%26+Clean+Architecture;Open+Source+Contributor;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 </p>
 
-<!-- Badges Row -->
+<!-- Profile Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhayaj21&label=Profile+Views&color=0e4429&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
@@ -19,6 +19,7 @@
 
 ---
 
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 ### 👨‍💻 About Me
 
 <img align="right" alt="coding" width="320px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -33,6 +34,7 @@
 
 ---
 
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 ### 🌐 Connect With Me
 
 <p align="left">
@@ -59,18 +61,24 @@
 
 ---
 
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 ### 🛠️ Languages & Tools
 
-#### ☕ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+#### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Core Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Advanced Java](https://img.shields.io/badge/Advanced_Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### 🎨 Frontend
+#### ☕ Backend Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+#### 🎨 Frontend Frameworks
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -82,39 +90,50 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayaj21&show_icons=true&theme=github_dark&hide_border=true&icon_color=3fb950&title_color=3fb950&ring_color=3fb950" width="48%" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhayaj21&show_icons=true&theme=github_dark&hide_border=true&icon_color=3fb950&title_color=3fb950&ring_color=3fb950&count_private=true" width="48%" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayaj21&layout=compact&theme=github_dark&hide_border=true&title_color=3fb950" width="40%" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayaj21&layout=compact&theme=github_dark&hide_border=true&title_color=3fb950&langs_count=8" width="40%" alt="Top Languages"/>
 </p>
 
 ---
 
+<!-- ═══════════════════════ STREAK STATS (SEPARATE) ═══════════════════════ -->
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayaj21&background=0D1117&border=3fb950&stroke=3fb950&ring=3fb950&fire=39d353&currStreakNum=39d353&sideNums=3fb950&currStreakLabel=3fb950&sideLabels=3fb950&dates=8b949e" alt="Streak Stats"/>
+</p>
+
+---
+
+<!-- ═══════════════════════ CONTRIBUTION GRAPH + SNAKE ═══════════════════════ -->
 ### 🌿 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhayaj21&bg_color=0d1117&color=3fb950&line=006d32&point=39d353&area=true&area_color=0e4429&hide_border=true&custom_title=Abhay%27s%20Contribution%20Activity" width="100%" alt="Contribution Graph"/>
-</p>
-
-<!-- Snake Animation — requires GitHub Action setup (see snake.yml) -->
-<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhayaj21/abhayaj21/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhayaj21/abhayaj21/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/abhayaj21/abhayaj21/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/abhayaj21/abhayaj21/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/abhayaj21/abhayaj21/output/github-contribution-grid-snake.svg"/>
+    <img
+      alt="GitHub Contribution Snake — shows full calendar with Mon/Wed/Fri day labels, month labels, and animated snake"
+      src="https://raw.githubusercontent.com/abhayaj21/abhayaj21/output/github-contribution-grid-snake-dark.svg"
+      width="100%"/>
   </picture>
 </p>
 
 ---
 
-<!-- Footer Wave Banner -->
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:006d32,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
+  <br/>
   <p>Made with ❤️ by <a href="https://github.com/abhayaj21"><strong>Abhay Jadhav</strong></a> &nbsp;|&nbsp; ⭐ Star the repo if you like it!</p>
 </div>
