@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually too
+    - cron: "0 0 * * *"      # auto runs every day at midnight UTC
+  workflow_dispatch:           # run manually from Actions tab anytime
   push:
     branches:
       - main
@@ -11,18 +11,24 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
-      - name: Generate github-contribution-grid-snake
-        uses: Platane/snk/svg-only@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # This action generates the full GitHub contribution calendar SVG
+      # with: month labels (May Jun Jul ... Apr), day labels (Mon Wed Fri),
+      # 4-shade green squares, AND the animated snake eating the squares.
+      - name: Generate snake SVG (light + dark)
+        uses: Platane/snk@v3
         with:
           github_user_name: abhayaj21
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push output to output branch
+      - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
