@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Angular+%7C+REST+APIs;Building+Scalable+%26+Clean+Architecture;Open+Source+Contributor;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Angular+%7C+REST+APIs;Building+Scalable+%26+Clean+Architecture;Open+Source+Contributor;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 </p>
 
 <!-- Profile Badges -->
@@ -97,18 +97,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayaj21&show_icons=true&theme=github_dark&hide_border=true&icon_color=3fb950&title_color=3fb950&ring_color=3fb950&count_private=true" width="48%" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayaj21&layout=compact&theme=github_dark&hide_border=true&title_color=3fb950&langs_count=8" width="40%" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhayaj21&theme=github_dark" height="175" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhayaj21&theme=github_dark" height="175" alt="Top Languages by Commit"/>
 </p>
 
 ---
 
-<!-- ═══════════════════════ STREAK STATS (SEPARATE) ═══════════════════════ -->
+<!-- ═══════════════════════ STREAK STATS ═══════════════════════ -->
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayaj21&background=0D1117&border=3fb950&stroke=3fb950&ring=3fb950&fire=39d353&currStreakNum=39d353&sideNums=3fb950&currStreakLabel=3fb950&sideLabels=3fb950&dates=8b949e" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=abhayaj21&background=0D1117&border=3fb950&stroke=3fb950&ring=3fb950&fire=39d353&currStreakNum=39d353&sideNums=3fb950&currStreakLabel=3fb950&sideLabels=3fb950&dates=8b949e" alt="Streak Stats"/>
 </p>
 
 ---
@@ -123,7 +123,7 @@
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/abhayaj21/abhayaj21/output/github-contribution-grid-snake.svg"/>
     <img
-      alt="GitHub Contribution Snake — shows full calendar with Mon/Wed/Fri day labels, month labels, and animated snake"
+      alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/abhayaj21/abhayaj21/output/github-contribution-grid-snake-dark.svg"
       width="100%"/>
   </picture>
