@@ -97,7 +97,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhayaj21&theme=github_dark" height="175" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhayaj21&theme=github_dark&include_all_commits=true" height="175" alt="GitHub Stats"/>
   &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhayaj21&theme=github_dark" height="175" alt="Top Languages by Commit"/>
 </p>
