@@ -97,9 +97,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhayaj21&theme=github_dark" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhayaj21&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=39d353&icon_color=3fb950&text_color=8b949e&ring_color=3fb950" height="175" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhayaj21&theme=github_dark" height="175" alt="Top Languages by Commit"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayaj21&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=39d353&text_color=8b949e&langs_count=8" height="175" alt="Top Languages"/>
 </p>
 
 ---
