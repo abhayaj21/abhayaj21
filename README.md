@@ -1,19 +1,25 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0e4429,70:006d32,100:39d353&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Abhay%20Jadhav&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=🚀%20A%20Passionate%20Java%20Full%20Stack%20Developer%20From%20India&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0e4429,65:006d32,100:39d353&height=250&section=header&text=Abhay%20Jadhav&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices%20%7C%20India&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 </div>
 
-<!-- Typing Animation -->
+<br/>
+
+<!-- ═══ TYPING ANIMATION ═══ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Angular+%7C+REST+APIs;Building+Scalable+%26+Clean+Architecture;Open+Source+Contributor;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Docker+%7C+Apache+Kafka+%7C+Redis;JUnit+%7C+Mockito+%7C+Swagger+%7C+Postman;Open+to+Backend+%2F+Full+Stack+Roles!" alt="Typing SVG" />
 </p>
 
-<!-- Profile Badges -->
+<br/>
+
+<!-- ═══ PROFILE BADGES ═══ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhayaj21&label=Profile+Views&color=0e4429&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Available-39d353?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117" alt="Open to Work"/>
+  &nbsp;
   <a href="https://abhayajprotfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-39d353?style=for-the-badge&logo=netlify&logoColor=black&labelColor=0d1117" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-39d353?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
   </a>
 </p>
 
@@ -22,13 +28,21 @@
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 ### 👨‍💻 About Me
 
-<img align="right" alt="coding" width="320px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="coding" width="310px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🌱 Currently learning **Spring, Spring Boot, Angular**
-- 💼 All projects available at [abhayajprotfolio.netlify.app](https://abhayajprotfolio.netlify.app/)
-- 💬 Ask me about **Java, LAMP Stack**
-- 📫 Reach me at **abhayaj2121@gmail.com**
-- ⚡ Fun fact: **I think I am funny 😄**
+🔭 &nbsp;Java Full Stack Developer crafting **scalable, production-ready applications** with Spring Boot & Angular
+
+🌱 &nbsp;Currently mastering **Microservices, Docker, Apache Kafka, Redis, JUnit & Mockito**
+
+💼 &nbsp;All projects live at [abhayajprotfolio.netlify.app](https://abhayajprotfolio.netlify.app/)
+
+💬 &nbsp;Ask me about **Java, Spring Boot, REST APIs, Microservices, Angular, LAMP Stack**
+
+🎯 &nbsp;Actively seeking **Backend / Full Stack Developer** opportunities
+
+📫 &nbsp;Reach me at **abhayaj2121@gmail.com**
+
+⚡ &nbsp;Fun fact: **I think I am funny 😄**
 
 <br clear="right"/>
 
@@ -38,16 +52,16 @@
 ### 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
   <a href="https://twitter.com/abhay_aj21" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/abhay_aj24" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/abhayaj2121" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
   </a>
   &nbsp;
   <a href="mailto:abhayaj2121@gmail.com">
@@ -55,41 +69,60 @@
   </a>
   &nbsp;
   <a href="https://abhayajprotfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-39d353?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-39d353?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
-#### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Core Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Advanced Java](https://img.shields.io/badge/Advanced_Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+#### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,php&theme=dark" height="42" alt="Languages" />
+</p>
 
-#### ☕ Backend Frameworks
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+#### ☕ Backend & Architecture
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,kafka,swagger,maven&theme=dark" height="42" alt="Backend skillicons" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="42" alt="Spring Boot"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="42" alt="Microservices"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="42" alt="REST API"/>
+</p>
 
-#### 🎨 Frontend Frameworks
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap&theme=dark" height="42" alt="Frontend" />
+</p>
 
-#### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+#### 🗄️ Database & Caching
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" height="42" alt="Database and Caching" />
+</p>
 
-#### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+#### 📦 DevOps & Messaging
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" height="42" alt="DevOps" />
+</p>
+
+#### 🧪 Testing & API
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="42" alt="Postman" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="42" alt="JUnit 5"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Mockito-C5D93C?style=for-the-badge&logo=openjdk&logoColor=black" height="42" alt="Mockito"/>
+</p>
+
+#### 🖥️ IDEs & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse&theme=dark" height="42" alt="IDEs" />
+</p>
 
 ---
 
@@ -97,24 +130,30 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayaj21&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=39d353&icon_color=3fb950&text_color=8b949e&ring_color=3fb950" height="175" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayaj21&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=39d353&text_color=8b949e&langs_count=8" height="175" alt="Top Languages"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayaj21&theme=github_dark" alt="Profile Details"/>
 </p>
-
----
-
-<!-- ═══════════════════════ STREAK STATS ═══════════════════════ -->
-### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhayaj21&background=0D1117&border=3fb950&stroke=3fb950&ring=3fb950&fire=39d353&currStreakNum=39d353&sideNums=3fb950&currStreakLabel=3fb950&sideLabels=3fb950&dates=8b949e" alt="Streak Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhayaj21&theme=github_dark" alt="Top Languages by Repo"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhayaj21&theme=github_dark" alt="Top Languages by Commits"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhayaj21&theme=github_dark" alt="GitHub Stats"/>
 </p>
 
 ---
 
-<!-- ═══════════════════════ CONTRIBUTION GRAPH + SNAKE ═══════════════════════ -->
-### 🌿 Contribution Graph
+<!-- ═══════════════════════ STREAK ═══════════════════════ -->
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhayaj21&background=0D1117&border=3fb950&stroke=3fb950&ring=39d353&fire=39d353&currStreakNum=39d353&sideNums=3fb950&currStreakLabel=39d353&sideLabels=3fb950&dates=8b949e" width="65%" alt="GitHub Streak"/>
+</p>
+
+---
+
+<!-- ═══════════════════════ CONTRIBUTION SNAKE ═══════════════════════ -->
+### 🌿 Contribution Snake
 
 <p align="center">
   <picture>
@@ -122,8 +161,7 @@
       srcset="https://raw.githubusercontent.com/abhayaj21/abhayaj21/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/abhayaj21/abhayaj21/output/github-contribution-grid-snake.svg"/>
-    <img
-      alt="GitHub Contribution Snake"
+    <img alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/abhayaj21/abhayaj21/output/github-contribution-grid-snake-dark.svg"
       width="100%"/>
   </picture>
@@ -135,5 +173,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:006d32,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
   <br/>
-  <p>Made with ❤️ by <a href="https://github.com/abhayaj21"><strong>Abhay Jadhav</strong></a> &nbsp;|&nbsp; ⭐ Star the repo if you like it!</p>
+  <p>💼 Available for Hire &nbsp;|&nbsp; Made with ❤️ by <a href="https://github.com/abhayaj21"><strong>Abhay Jadhav</strong></a> &nbsp;|&nbsp; ⭐ Star the repo if you like it!</p>
 </div>
