@@ -7,7 +7,7 @@
 
 <!-- ═══ TYPING ANIMATION ═══ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Docker+%7C+Apache+Kafka+%7C+Redis;JUnit+%7C+Mockito+%7C+Swagger+%7C+Postman;Open+to+Backend+%2F+Full+Stack+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Docker+%7C+Apache+Kafka+%7C+Redis;JUnit+5+%7C+Mockito+%7C+Swagger+%7C+Postman;Open+to+Backend+%2F+Full+Stack+Roles!" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -57,7 +57,7 @@
   </a>
   &nbsp;
   <a href="https://twitter.com/abhay_aj21" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter"/>
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/abhay_aj24" target="_blank">
@@ -80,48 +80,60 @@
 
 #### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,php&theme=dark" height="42" alt="Languages" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
 #### ☕ Backend & Architecture
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,kafka,swagger,maven&theme=dark" height="42" alt="Backend skillicons" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="42" alt="Spring Boot"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="42" alt="Microservices"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="42" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/REST%20API-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000000" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Apache Maven"/>
 </p>
 
 #### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap&theme=dark" height="42" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
 #### 🗄️ Database & Caching
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" height="42" alt="Database and Caching" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
 #### 📦 DevOps & Messaging
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" height="42" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 #### 🧪 Testing & API
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="42" alt="Postman" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="42" alt="JUnit 5"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Mockito-C5D93C?style=for-the-badge&logo=openjdk&logoColor=black" height="42" alt="Mockito"/>
+  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5"/>
+  <img src="https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white" alt="Mockito"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 #### 🖥️ IDEs & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse&theme=dark" height="42" alt="IDEs" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse IDE"/>
 </p>
 
 ---
