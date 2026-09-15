@@ -34,7 +34,7 @@
 
 🌱 &nbsp;Currently mastering **Microservices, Docker, Apache Kafka, Redis, JUnit & Mockito**
 
-💼 &nbsp;All projects live at [abhayajprotfolio.netlify.app](https://abhayajprotfolio.netlify.app/)
+💼 &nbsp;All projects live at [abhayajprotfolio.netlify.app](https://abhayajportfolio.netlify.app/)
 
 💬 &nbsp;Ask me about **Java, Spring Boot, REST APIs, Microservices, Angular, LAMP Stack**
 
